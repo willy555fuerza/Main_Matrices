@@ -1,0 +1,8 @@
+C:\Users\PC C1\source\repos\Main_Matrizes\bin\Debug\Main_Matrizes.exe.config
+C:\Users\PC C1\source\repos\Main_Matrizes\bin\Debug\Main_Matrizes.exe
+C:\Users\PC C1\source\repos\Main_Matrizes\bin\Debug\Main_Matrizes.pdb
+C:\Users\PC C1\source\repos\Main_Matrizes\obj\Debug\Main_Matrizes.csproj.AssemblyReference.cache
+C:\Users\PC C1\source\repos\Main_Matrizes\obj\Debug\Main_Matrizes.csproj.SuggestedBindingRedirects.cache
+C:\Users\PC C1\source\repos\Main_Matrizes\obj\Debug\Main_Matrizes.csproj.CoreCompileInputs.cache
+C:\Users\PC C1\source\repos\Main_Matrizes\obj\Debug\Main_Matrizes.exe
+C:\Users\PC C1\source\repos\Main_Matrizes\obj\Debug\Main_Matrizes.pdb
